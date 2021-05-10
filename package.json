@@ -1,0 +1,18 @@
+{
+  "name": "numberformat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "jquery": "^3.6.0",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.7.0"
+  }
+}
